@@ -1,8 +1,8 @@
 # Model-Porfolio
 This is a portfolio i made for miss Githunguri 2019-2021
 
-This website was made usinging tilda scripts + jquery
-You dont need to download or install anything.
+This website was made usinging tilda scripts + jquery <br>
+You dont need to download or install anything. <br>
 Just CLONE and run in your editor
 
 
