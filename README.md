@@ -6,7 +6,7 @@ You dont need to download or install anything. <br>
 Just CLONE and run in your editor
 <br>
 
-The website can be viewed here  https://kimjayden.github.io/Model-Porfolio/
+The website can be viewed here  https://peter-kimanzi.github.io/Model-Porfolio/
 
 
 
