@@ -1,5 +1,5 @@
 # Model-Porfolio
-This is a portfolio i made for miss Githunguri 2019-2021
+This is a portfolio i made for miss Githunguri 2019-2022
 
 This website was made usinging tilda scripts + jquery <br>
 You dont need to download or install anything. <br>
